@@ -46,10 +46,8 @@
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-a855f7?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ec4899?style=flat-square)
 
-**MLOps & Deployment**
+**Deployment**
 
-![MLflow](https://img.shields.io/badge/MLflow-6d28d9?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-a855f7?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-ec4899?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-6d28d9?style=flat-square&logo=streamlit&logoColor=white)
 
